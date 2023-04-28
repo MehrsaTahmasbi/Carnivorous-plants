@@ -1,2 +1,0 @@
-# Carnivorous-plants
-Carnivorous plants
