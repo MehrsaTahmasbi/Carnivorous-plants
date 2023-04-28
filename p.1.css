@@ -1,0 +1,30 @@
+h2{
+    padding: 20px;
+    margin: 20px;
+    background-color:#c3e6cb;
+    color:darkolivegreen;
+  }
+p{
+    padding: 20px;
+    margin: 20px;
+}
+h3{
+    padding: 20px;
+    margin: 20px;
+    background-color: darkseagreen;
+    color: indianred;
+}
+h4{
+    padding: 20px;
+    margin: 20px;
+
+}
+video.MyVideo{
+    padding:20px;
+    margin: 20px;
+    bottom: 20px;
+    min-width: 100%; 
+    min-height: 100%;
+    max-width:100%;
+}
+   
